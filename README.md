@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LombaAnderson/django-rest-pecas/blob/main/LICENSE)
 
 # Sobre o projeto
-Django-rest-pecas é uma API de cadastro de venda de droids onde é possível ter acesso aos lendários droids de Star Wars e feito no Django admin o acesso possui algumas restrições feitas pelo administrador, exemplificando: o anunciante pode por seus dados na plataforma, porém não pode alterar determinados dados do cadastro como o fato dos dados de que anunciante fez o anúncio. Foi usado o Postman para testar o funcionamento da API e foi feito teste com o próprio Python. Pretendo alterar algo do projeto posteriormente que faltou ,pois utilizei uma máquina reserva antiga para terminá-lo porque a placa mãe do computador principal estar no conserto.
+Django-rest-pecas é uma API de cadastro de venda de droids onde é possível ter acesso aos lendários droids de Star Wars e feito no Django admin o acesso possui algumas restrições feitas pelo administrador, exemplificando: o anunciante pode por seus dados na plataforma, porém não pode alterar determinados dados do cadastro como o fato dos dados de que anunciante fez o anúncio. Foi usado o Postman para testar o funcionamento da API e foi feito teste com o próprio Python. Pretendo alterar algo do projeto posteriormente que faltou ,pois utilizei uma máquina reserva antiga para terminá-lo porque a placa mãe do computador principal esta no conserto.
 
 ## Imagem da página API Django
 <div align="center">
